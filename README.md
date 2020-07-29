@@ -9,8 +9,12 @@ arduino board.
 Parts required:
 	
 Arduino UNO                           x   1
+
 Buzzer                                x   1
+
 Ultrasonic Sensor - HC-SR04           x   1
+
 Jumper wires
+
 9 Volt Battery                        x   1
 
